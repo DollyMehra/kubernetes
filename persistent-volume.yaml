@@ -13,4 +13,8 @@ spec:
 #we use like this:
 #awsElasticBlockStore:
      #volumeID: <volumne-id>
-     #fsType: ext4                                
+     #fsType: ext4    
+#or
+#gcePersistentDisk:
+     #pdName: pd-disk
+     #fsType: ext4                            
