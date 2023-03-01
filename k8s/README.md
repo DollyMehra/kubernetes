@@ -2,7 +2,7 @@
 kubernetes
 
 
-Comman commands:
+Comman command:
 - To see all the obejects in the kubernetes cluster:
 kubectl get all
 
